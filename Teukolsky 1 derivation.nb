@@ -1,0 +1,69 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2094,         61]
+NotebookOptionsPosition[      1471,         44]
+NotebookOutlinePosition[      1869,         60]
+CellTagsIndexPosition[      1826,         57]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.959852324449338*^9, 3.9598524180142727`*^9}, {
+   3.959852455441003*^9, 3.959852482878064*^9}, {3.959852569563932*^9, 
+   3.9598525793354807`*^9}, {3.959852742312615*^9, 3.959852743683003*^9}, {
+   3.963580418408887*^9, 3.963580464867057*^9}, {3.963580500656335*^9, 
+   3.963580509852901*^9}, 
+   3.963582006121154*^9},ExpressionUUID->"86f832f3-14f6-4a80-9ba4-\
+b01b7e8cd2ea"],
+
+Cell[BoxData["\[IndentingNewLine]"], "Input",
+ CellChangeTimes->{{3.9635820042934*^9, 
+  3.963582004302545*^9}},ExpressionUUID->"94f46587-5a3d-4ea0-955a-\
+e9b22ad5c837"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.963580502159505*^9, 
+  3.9635805021698103`*^9}},ExpressionUUID->"8969f892-c4d1-4459-acd0-\
+a2c1462061a7"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.963580416448127*^9, 
+  3.963580416839098*^9}},ExpressionUUID->"5ee1fdb1-2292-4ae8-9457-\
+82b61b01aad7"]
+},
+WindowSize->{808, 698},
+WindowMargins->{{Automatic, 121}, {-15, Automatic}},
+FrontEndVersion->"13.2 for Mac OS X ARM (64-bit) (January 30, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"fd0df46e-fea6-4713-929e-687eab4341af"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 425, 7, 30, "Input",ExpressionUUID->"86f832f3-14f6-4a80-9ba4-b01b7e8cd2ea"],
+Cell[986, 29, 169, 3, 52, "Input",ExpressionUUID->"94f46587-5a3d-4ea0-955a-e9b22ad5c837"],
+Cell[1158, 34, 154, 3, 30, "Input",ExpressionUUID->"8969f892-c4d1-4459-acd0-a2c1462061a7"],
+Cell[1315, 39, 152, 3, 30, "Input",ExpressionUUID->"5ee1fdb1-2292-4ae8-9457-82b61b01aad7"]
+}
+]
+*)
+
